@@ -1,5 +1,6 @@
 package model;
 
+
 public class Transaction {
     private int amount;
     private String fecha;
